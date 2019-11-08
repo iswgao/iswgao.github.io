@@ -38,11 +38,11 @@ Weichao Wang, Shi Feng, Wei Gao, Daling Wang, and Yifei Zhang <br>
 
 <b>[Rumor Detection on Twitter with Tree-structured Recursive Neural Networks](http://weigao.github.io/publications/acl2018-rumor)</b> <br>
 Jing Ma, Wei Gao, and Kam-Fai Wong <br>
-<b>ACL 2018</b>: The 56th Annual Meeting of the Association for Computational Linguistics, July 2018
+<b>ACL 2018</b>: <i>The 56th Annual Meeting of the Association for Computational Linguistics</i>, July 2018
 
 <b>[Detect Rumor and Stance Jointly by Neural Multi-task Learning](http://weigao.github.io/publications/www2018-detect)</b> <br>
 Jing Ma, Wei Gao, and Kam-Fai Wong <br>
-<b>WWW 2018 Companion</b>: The Web Conference 2018 Companion (Alternate Track on Journalism, MisInformation, and Fact-checking), April 2018
+<b>WWW 2018 Companion</b>: <i>The Web Conference 2018 Companion (Alternate Track on Journalism, MisInformation, and Fact-checking)</i>, April 2018
 
 
 
