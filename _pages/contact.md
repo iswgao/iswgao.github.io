@@ -4,7 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+School of Information Systems<br>
+Singapore Management University<br>
+81 Victoria St, Singapore 188065<br>
+Email: weigao [at] smu.edu.sg
 
