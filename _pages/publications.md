@@ -237,62 +237,62 @@ __ECIR 2011:__ *The 33rd European Conference on Information Retrieval*, April 20
 
 
 ## Before 2010
-__[Extracting Common Emotions from Blogs Based on Fine-grained Sentiment Clustering]()__ <br>
+__[Extracting Common Emotions from Blogs Based on Fine-grained Sentiment Clustering](http://iswgao.github.io/publications/kais2010-extracting)__ <br>
 Shi Feng, Daling Wang, Ge Yu, Wei Gao, and Kam-Fai Wong <br>
 __KAIS:__ *Knowledge and Information Systems*, 27(2):281-302, 2010
 
-__[Learning to Rank Only Using Training Data from Related Domain]()__ <br>
+__[Learning to Rank Only Using Training Data from Related Domain](http://iswgao.github.io/publications/sigir2010-learning)__ <br>
 Wei Gao, Peng Cai, Kam-Fai Wong, and Aoying Zhou <br>
 __SIGIR 2010:__ *The 33rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval*, July 2010
 
-__[Exploiting Query Logs for Cross-Lingual Query Suggestions]()__ <br>
+__[Exploiting Query Logs for Cross-Lingual Query Suggestions](http://iswgao.github.io/publications/tois2010-exploiting)__ <br>
 Wei Gao, Cheng Niu, Jian-Yun Nie, Ming Zhou, Kam-Fai Wong, and Hsiao-Wuen Hon <br>
 __TOIS:__ *ACM Transactions on Information Systems*, Volume 28, No.2, Article 6, 2010 
 
-__[Cross-Language Mining and Retrieval]()__ <br>
+__[Cross-Language Mining and Retrieval](http://iswgao.github.io/publications/bookchapter2010-crosslanguage)__ <br>
 Wei Gao and Cheng Niu <br>
 In Ling Liu and Tamer Özsu (Eds.) "*Encyclopedia of Database Systems*", 523-528, Springer US 2009, ISBN 978-0-387-35544-3,978-0-387-39940-9 
 
-__[Exploiting Bilingual Information to Improve (Monolingual) Web Search]()__ (br>
+__[Exploiting Bilingual Information to Improve (Monolingual) Web Search](http://iswgao.github.io/publications/acl2009-exploiting)__ (br>
 Wei Gao, John Blitzer, Ming Zhou, and Kam-Fai Wong <br>
 __ACL-IJCNLP 2009:__ *The 47th Annual Meeting of the Association for Computational Linguistics*, August 2009
 
-__[Joint Ranking for Multilingual Web Search]()__ <br>
+__[Joint Ranking for Multilingual Web Search](http://iswgao.github.io/publications/ecir2009-joint)__ <br>
 Wei Gao, Cheng Niu, Ming Zhou, and Kam-Fai Wong <br>
 __ECIR 2009:__ *The 31st European Conference on Information Retrieval*, April 2009 (__Best Student Paper__)
 
-__[Using English Information in Non-English Web Search]()__ <br>
+__[Using English Information in Non-English Web Search](http://iswgao.github.io/publications/inews2008-using)__ <br>
 Wei Gao, John Blitzer, and Ming Zhou <br>
 __iNEWS 2008:__ *ACM International Workshop on Improving Non-English Web Searching*, October 2008
 
-__[Cross-Lingual Query Suggestion Using Query Logs of Different Languages]()__ <br>
+__[Cross-Lingual Query Suggestion Using Query Logs of Different Languages](http://iswgao.github.io/publications/sigir2007-crosslingual)__ <br>
 Wei Gao, Cheng Niu, Jian-Yun Nie, Ming Zhou, Jian Hu, Kam-Fai Wong, and Hsiao-Wuen Hon <br>
 __SIGIR 2007:__ *The 30th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval*, July 2007
 
-__[Experimental Studies Using Statistical Algorithms on Transliterating Phoneme Sequences for English-Chinese Name Translation]()__ <br>
+__[Experimental Studies Using Statistical Algorithms on Transliterating Phoneme Sequences for English-Chinese Name Translation](http://iswgao.github.io/publications/ijcpol2006-experimental)__ <br>
 Wei Gao and Kam-Fai Wong <br>
 __IJCPOL:__ *International Journal of Computer Processing of Oriental Languages*, 19(1):63-88, 2006, World Scientific Publish Co., Imperial College Press
 
-__[Clique Percolation Method for Finding Naturally Cohesive and Overlapping Document Clusters]()__ <br>
+__[Clique Percolation Method for Finding Naturally Cohesive and Overlapping Document Clusters](http://iswgao.github.io/publications/iccpol2006-clique)__ <br>
 Wei Gao, Kam-Fai Wong, Yunqing Xia, and Ruifeng Xu <br>
 __ICCPOL 2006:__ *The 21st International Conference on Computer Processing of Oriental Languages*, November 2006
 
-__[Natural Document Clustering by Clique Percolation in Random Graphs]()__ <br>
+__[Natural Document Clustering by Clique Percolation in Random Graphs](http://iswgao.github.io/publications/airs2006-natural)__ <br>
 Wei Gao and Kam-Fai Wong <br>
 __AIRS 2006:__ *The 3rd Asia Information Retrieval Symposium*, October 2006
 
-__[NIL Is Not Nothing: Recognition of Chinese Network Informal Language Expressions]()__ <br>
+__[NIL Is Not Nothing: Recognition of Chinese Network Informal Language Expressions](http://iswgao.github.io/publications/sighan2005-nil)__ <br>
 Yunqing Xia, Kam-Fai Wong, and Wei Gao <br>
 __SIGHAN 2005:__ *The 4th SIGHAN workshop on Chinese Language Processing*, October 2005
 
-__[Improving Transliteration with Precise Alignment of Phoneme Chunks and Using Contextual Features]()__ <br>
+__[Improving Transliteration with Precise Alignment of Phoneme Chunks and Using Contextual Features](http://iswgao.github.io/publications/airs2004-improving)__ <br>
 Wei Gao, Kam-Fai Wong, and Wai Lam <br>
 __AIRS 2004:__ *The First Asia Information Retrieval Symposium*, October 2004
 
-__[Phoneme-based Transliteration of Foreign Names for OOV Problem]()__ <br>
+__[Phoneme-based Transliteration of Foreign Names for OOV Problem](http://iswgao.github.io/publications/ijcnlp2004-phoneme)__ <br>
 Wei Gao, Kam-Fai Wong, and Wai Lam <br>
 __IJCNLP 2004:__ *The First International Joint Conference on Natural Language Processing*, March 2004
 
-__[Design Issues in a Chinese Financial Information Extraction System]()__ <br>
+__[Design Issues in a Chinese Financial Information Extraction System](http://iswgao.github.io/publications/iccpol2003-design)__ <br>
 Qingzhong Li, Wei Gao, Wenjie Li, Kam-Fai Wong, Chunfa Yuan, and Yun Wang <br>
 __ICCPOL 2003:__ *The 20th International Joint Conference on Computer Processing of Oriental Languages*, August 2003
