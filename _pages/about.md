@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Short Biography
-I am currently an Assistant Professor in ...
+I am currently an Assistant Professor in the [School of Information Systems](https://sis.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). My research interests intersect natural language processing, information retrieval, artificial intelligence and social computing. I have published over 70 papers and articles in the major international conferences and journals including ACL, EMNLP, CIKM, IJCAI, SIGIR, WSDM, WWW, ACM TOIS, ACM TIST, JAIR, etc. I broadly serve in the program committees of these main conferences and review for top-tier journals. I received my PhD and MPhil degrees from the [Chinese University of Hong Kong](http://www.cuhk.edu.hk) and interned at [Microsoft Research Asia] (https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) during my PhD study. Before joining SMU, I was a Senior Lecturer at [Victoria University of Wellington](http://www.vuw.ac.nz) in New Zealand, a Scientist at [Qatar Computing Research Institute](https://www.hbku.edu.qa/en/qcri), and a Research Assistant Professor at the Chinese University of Hong Kong.
 
 
 ## Research Interests
