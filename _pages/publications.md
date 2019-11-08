@@ -253,7 +253,7 @@ __[Cross-Language Mining and Retrieval](http://iswgao.github.io/publications/boo
 Wei Gao and Cheng Niu <br>
 In Ling Liu and Tamer Özsu (Eds.) "*Encyclopedia of Database Systems*", 523-528, Springer US 2009, ISBN 978-0-387-35544-3,978-0-387-39940-9 
 
-__[Exploiting Bilingual Information to Improve (Monolingual) Web Search](http://iswgao.github.io/publications/acl2009-exploiting)__ (br>
+__[Exploiting Bilingual Information to Improve (Monolingual) Web Search](http://iswgao.github.io/publications/acl2009-exploiting)__ <br>
 Wei Gao, John Blitzer, Ming Zhou, and Kam-Fai Wong <br>
 __ACL-IJCNLP 2009:__ *The 47th Annual Meeting of the Association for Computational Linguistics*, August 2009
 
