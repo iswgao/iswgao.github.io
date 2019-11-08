@@ -1,17 +1,17 @@
 # main links links
 main:
 
-- title: "Contact"
+  - title: "Contact"
     url: /contact/  
     
   - title: "Publications"
     url: /publications/
 
-   - title: "Teaching"
-     url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
 
-   - title: "Academic Services"
-     url: /services/
+  - title: "Academic Services"
+    url: /services/
 
   - title: "Talks"
     url: /talks/    
