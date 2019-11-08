@@ -13,10 +13,12 @@ I am currently an Assistant Professor in ...
 
 
 ## Research Interests
-* Natural Language Processing
-* Social Computing
-* Artificial Intelligence and Machine Learning 
-* Information Retrieval and Web Search
+* Natural language interaction
+* Social network analysis and mining
+* Sentiment and stance analysis 
+* Multimodal NLP
+* Rumor/Fake news detection and fact checking
+* Information retrieval
 
 
 ## Recent News
@@ -30,7 +32,30 @@ I am currently an Assistant Professor in ...
 * __Senior Program Committee Member:__ AAAI 2019
 * __Area Chair:__ ACL 2019, EMNLP 2019
 * __Program Committee Member:__ WWW 2020, AAAI 2020, NAACL 2019, ECIR 2019, IJCAI 2016/2018-2019, SIGIR 2011-2017/2019, CIKM 2017/2018, WSDM 2015/2017, ACL 2012/2014-2019, EMNLP 2010/2011/2013-2017, ASONAM 2015-2019, NLPCC 2015/2017-2019, SocialNLP 2016-2019, SocialSens 2019, etc.
-* __Journal Referee:__ TALLIP, TIST, TKDD, TKDE, TOIS, TWEB, ACM Computing Surveys, Computational Linguistics, Information Systems, IEEE Transactions on Computer, IEEE Intelligent Systems, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Cybernetics, Information Processing and Management, JASIST, Information Retrieval, KAIS, Data Mining and Knowledge Discovery, Neurocomputing, AI Communications, Network Science, etc.
+* __Journal Referee:__
+  * ACM Computing Surveys (CORE: A*)
+  * IEEE Transactions on Computer (CORE: A*)
+  * Computational Linguistics (CORE: A*)
+  * Information Systems (CORE: A*)
+  * Journal of Association for Information Science and Technology (CORE: A*)
+  * ACM Transactions on Knowledge Discovery from Data (CORE: A)
+  * ACM Transactions on Information Systems (CORE: A) 
+  * ACM Transactions on the Web (CORE: A)
+  * ACM Transactions on Intelligent Systems and Technology (Scopus: 2/141 AI; 1/116 TCS)
+  * IEEE Transactions on Knowledge and Data Engineering (CORE: A)
+  * IEEE Intelligent Systems (CORE: A)
+  * IEEE Transactions on Cybernetics (CORE: A)
+  * IEEE Transactions on Information Forensics and Security (CORE: A)
+  * Information Processing and Management (CORE: A)
+  * Data Mining and Knowledge Discovery (CORE: A)
+  * Neural Computation (CORE: A)
+  * Natural Language Engineering (CORE: A)
+  * International Journal of Human-Computer Studies (CORE: A)
+  * ACM Transactions on Asian and Low-Resource Language Information Processing (CORE: B)  
+  * Knowledge and Information Systems (CORE: B)
+  * Information Retrieval (CORE: B)
+  * Language Resources and Evaluation (CORE: B)
+  * AI Communications (CORE: B)
 * __Workshop Co-chair:__ BigComp 2016, AACL-IJCNLP 2020
 * __Area Co-chair:__ NLPCC 2015, 2018, 2019
 * __Tutorial Co-chair:__ IJCNLP 2011
