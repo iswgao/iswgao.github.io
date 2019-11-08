@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://weigao.github.io/files/weigao_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
-
-* I am currently an Assistant Professor in the [School of Information Systems](https://sis.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). Prior to this, I was a Senior Lecturer at Victoria University of Wellington in New Zealand, a Scientist at Qatar Computing Research Institute, and a Research Assistant Professor at the Chinese University of Hong Kong. I received Ph.D. of Information Systems in 2010 from the Department of Systems Engineering and Engineering Management, the Chinese University of Hong Kong. During my PhD study, I interned at Microsoft Research Asia (with Natural Language Computing Group).
+I am currently an Assistant Professor in the [School of Information Systems](https://sis.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). Prior to this, I was a Senior Lecturer at Victoria University of Wellington in New Zealand, a Scientist at Qatar Computing Research Institute, and a Research Assistant Professor at the Chinese University of Hong Kong. I received Ph.D. of Information Systems in 2010 from the Department of Systems Engineering and Engineering Management, the Chinese University of Hong Kong. During my PhD study, I interned at Microsoft Research Asia (with Natural Language Computing Group).
 
 
 # Research Interests
