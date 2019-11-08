@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Short Bio
-I am currently an Assistant Professor in the [School of Information Systems](https://sis.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). Prior to this, I was a Senior Lecturer at Victoria University of Wellington in New Zealand, a Scientist at Qatar Computing Research Institute, and a Research Assistant Professor at the Chinese University of Hong Kong. I received Ph.D. of Information Systems in 2010 from the Department of Systems Engineering and Engineering Management, the Chinese University of Hong Kong. During my PhD study, I interned at Microsoft Research Asia (with Natural Language Computing Group).
+I am currently an Assistant Professor in ...
 
 
 # Research Interests
@@ -27,7 +27,7 @@ I am currently an Assistant Professor in the [School of Information Systems](htt
 * May 24, 2018. Invited to serve as a member of Senior Program Committee in [AAAI-2019](https://aaai.org/Conferences/AAAI-19/).
 
 # Academic Services
-* Senior Program Committee Member: AAAI 2019
+* <b>Senior Program Committee Member</b>: AAAI 2019
 * Area Chair: ACL 2019, EMNLP 2019
 * Program Committee Member: WWW 2020, AAAI 2020, NAACL 2019, ECIR 2019, IJCAI 2016/2018-2019, SIGIR 2011-2017/2019, CIKM 2017/2018, WSDM 2015/2017, ACL 2012/2014-2019, EMNLP 2010/2011/2013-2017, ASONAM 2015-2019, CoNLL 2015, RANLP 2013/2015, IJCNLP 2013, AIRS 2012/2013, PACLIC 25/26/28/29/30/31, NLPCC 2015/2017-2019, CCL 2016, BigComp 2016-2017, SocialNLP 2016-2018, SocialSec 2016, SocialSens 2019
 * Journal Reviewer: TALLIP, TIST, TKDD, TKDE, TOIS, TWEB, ACM Computing Surveys, Computational Linguistics, Information Systems, IEEE Transactions on Computer, IEEE Intelligent Systems, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Cybernetics, Information Processing and Management, JASIST, Information Retrieval, KAIS, Data Mining and Knowledge Discovery, Neurocomputing, AI Communications, Network Science, etc.
