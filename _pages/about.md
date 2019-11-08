@@ -22,9 +22,9 @@ I am currently an Assistant Professor in ...
 
 
 ## Recent News
-* __July 26, 2019__ Invited to serve as Workshop Co-Chair in [AACL-IJCNLP-2020](http://aacl2020.org/).
-* __April 26, 2019__ Invited to serve as Area Chair (Text Mining and NLP Applications) in [EMNLP-IJCNLP-2019](https://www.emnlp-ijcnlp2019.org/).
-* __December 23, 2018__ Invited to serve as Area Chair (Social Media) in [ACL-2019](http://www.acl2019.org/EN/index.xhtml).
+* __July 26, 2019__ Invited to serve as a Workshop Co-Chair in [AACL-IJCNLP-2020](http://aacl2020.org/).
+* __April 26, 2019__ Invited to serve as an Area Chair (Text Mining and NLP Applications) in [EMNLP-IJCNLP-2019](https://www.emnlp-ijcnlp2019.org/).
+* __December 23, 2018__ Invited to serve as an Area Chair (Social Media) in [ACL-2019](http://www.acl2019.org/EN/index.xhtml).
 * __December 11, 2018__ Give a tutorial in [AI-2018](https://ecs.victoria.ac.nz/Events/AI2018/)
 * __May 24, 2018__ Invited to serve as a member of Senior Program Committee in [AAAI-2019](https://aaai.org/Conferences/AAAI-19/).
 
