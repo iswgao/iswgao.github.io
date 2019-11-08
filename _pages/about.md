@@ -61,7 +61,7 @@ I am currently an Assistant Professor in the [School of Information Systems](htt
 * __Tutorial Co-chair:__ IJCNLP 2011
 
 ## 10 Representative Publications
-(Please see Publication page for the full list of my papers)
+(Please see the Publication page for the full list of my papers)
 
 __[Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning](https://dl.acm.org/citation.cfm?id=3313741)__ <br>
 Jing Ma, Wei Gao, and Kam-Fai Wong <br>
