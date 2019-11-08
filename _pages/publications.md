@@ -3,7 +3,6 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<br>
 
 ## 2019
 __[Using Customer Service Dialogues for Satisfaction Analysis with Context-Assisted Multiple Instance Learning](http://iswgao.github.io/publications/emnlp2019-using)__ <br>
