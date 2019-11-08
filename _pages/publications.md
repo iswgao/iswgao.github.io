@@ -32,7 +32,7 @@ Jing Ma, Wei Gao, and Kam-Fai Wong <br>
 Bhavtosh Rath, Wei Gao, Jing Ma, and Jaideep Srivastava <br>
 <b>SNAM</b>: Social Network Analysis and Mining, 8:64, December 2018, Springer
 
-<b>[Personalized Microblog Sentiment Classification via Adversarial Cross-lingual Multi-task Learning](http://weigao.github.io/publications/emnlp2018-personalized)</b> <br>)
+<b>[Personalized Microblog Sentiment Classification via Adversarial Cross-lingual Multi-task Learning](http://weigao.github.io/publications/emnlp2018-personalized)</b> <br>
 Weichao Wang, Shi Feng, Wei Gao, Daling Wang, and Yifei Zhang <br>
 <b>EMNLP 2018</b>: The 2018 Conference on Empirical Methods in Natural Language Processing, October 2018
 
