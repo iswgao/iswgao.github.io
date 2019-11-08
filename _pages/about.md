@@ -9,24 +9,33 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://weigao.github.io/files/weigao_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+* I am currently an Assistant Professor in the [School of Information Systems](https://sis.smu.edu.sg/) at [Singapore Management University](https://www.smu.edu.sg/). Prior to this, I was a Senior Lecturer at Victoria University of Wellington in New Zealand, a Scientist at Qatar Computing Research Institute, and a Research Assistant Professor at the Chinese University of Hong Kong. I received Ph.D. of Information Systems in 2010 from the Department of Systems Engineering and Engineering Management, the Chinese University of Hong Kong. During my PhD study, I interned at Microsoft Research Asia (with Natural Language Computing Group).
 
+
+# Research Interests
+* Natural Language Processing
+* Social Computing
+* Artificial Intelligence and Machine Learning 
+* Information Retrieval and Web Search
 
 
 # Recent News
-* September 3, 2019. One paper accepted to NeurIPS 2019.
-* April 21, 2019. Three papers accepted to ICML 2019.
-* November 3, 2018. One paper accepted to AAAI 2019.
-* August 9, 2017. I won the [Best Paper Award Honorable Mention](https://lantaoyu.github.io/files/sigir17-award.jpg) at [SIGIR 2017](http://sigir.org/sigir2017/program/awards/).
-* August 6 - August 12, 2017. I attended the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval held in Tokyo, Japan.
-* July 26, 2017. I gave an [online talk](https://zhuanlan.zhihu.com/p/28151434) on ["Generative Adversarial Networks for Discrete Data"](http://lantaoyu.com/files/2017-07-26-gan-for-discrete-data.pdf) at [PaperWeekly](https://zhuanlan.zhihu.com/paperweekly).
-* May 19, 2017. A paper titled "A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration" was accepted to [KDD 2017](http://www.kdd.org/kdd2017/).
-* April 19, 2017. I gave a [talk](http://lantaoyu.com/files/2017-04-19-gans-for-ir.pdf) on applying adversarial training techniques for information retrieval at Apex Lab, Shanghai Jiao Tong University.
-* April 11, 2017. A paper titled "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models" was accepted to [SIGIR 2017](http://sigir.org/sigir2017/).
-* February 4 - February 9, 2017. I attended the Thirty-First AAAI Conference on Artificial Intelligence held in San Francisco, California, US and gave a [talk](http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf) on applying adversarial training for generating sequential data.
-* November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted to [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php).
+* July 26, 2019. Invited to serve as Workshop Co-Chair in [AACL-IJCNLP-2020](http://aacl2020.org/).
+* April 26, 2019. Invited to serve as Area Chair (Text Mining and NLP Applications) in [EMNLP-IJCNLP-2019](https://www.emnlp-ijcnlp2019.org/).
+* December 23, 2018. Invited to serve as Area Chair (Social Media) in [ACL-2019](http://www.acl2019.org/EN/index.xhtml).
+* December 11, 2018. Give a tutorial in [AI-2018](https://ecs.victoria.ac.nz/Events/AI2018/)
+* May 24, 2018. Invited to serve as a member of Senior Program Committee in [AAAI-2019](https://aaai.org/Conferences/AAAI-19/).
+
+# Academic Services
+* Senior Program Committee Member: AAAI 2019
+* Area Chair: ACL 2019, EMNLP 2019
+* Program Committee Member: WWW 2020, AAAI 2020, NAACL 2019, ECIR 2019, IJCAI 2016/2018-2019, SIGIR 2011-2017/2019, CIKM 2017/2018, WSDM 2015/2017, ACL 2012/2014-2019 (2018 acknowledged top reviewer), EMNLP 2010/2011/2013-2017 (2010 best reviewer), ASONAM 2015-2019, CoNLL 2015, RANLP 2013/2015, IJCNLP 2013, AIRS 2012/2013, PACLIC 25/26/28/29/30/31, NLPCC 2015/2017-2019, CCL 2016, BigComp 2016-2017, SocialNLP 2016-2018, SocialSec 2016, SocialSens 2019
+* Journal Reviewer: TALLIP, TIST, TKDD, TKDE, TOIS, TWEB, ACM Computing Surveys, Computational Linguistics, Information Systems, IEEE Transactions on Computer, IEEE Intelligent Systems, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Cybernetics, Information Processing and Management, JASIST, Information Retrieval, KAIS, Data Mining and Knowledge Discovery, Neurocomputing, AI Communications, Network Science, etc.
+* Workshop Co-chair: BigComp 2016, AACL-IJCNLP 2020
+* Area Co-chair: NLPCC 2015, 2018, 2019
+* Tutorial Co-chair: IJCNLP 2011
+
+# Selected Publications
