@@ -23,8 +23,8 @@ I am currently an Assistant Professor in ...
 * <b>July 26, 2019</b> Invited to serve as Workshop Co-Chair in [AACL-IJCNLP-2020](http://aacl2020.org/).
 * <b>April 26, 2019</b> Invited to serve as Area Chair (Text Mining and NLP Applications) in [EMNLP-IJCNLP-2019](https://www.emnlp-ijcnlp2019.org/).
 * <b>December 23, 2018</b> Invited to serve as Area Chair (Social Media) in [ACL-2019](http://www.acl2019.org/EN/index.xhtml).
-* <b>December 11, 2018:b> Give a tutorial in [AI-2018](https://ecs.victoria.ac.nz/Events/AI2018/)
-  * <b>May 24, 2018</b> Invited to serve as a member of Senior Program Committee in [AAAI-2019](https://aaai.org/Conferences/AAAI-19/).
+* <b>December 11, 2018</b> Give a tutorial in [AI-2018](https://ecs.victoria.ac.nz/Events/AI2018/)
+* <b>May 24, 2018</b> Invited to serve as a member of Senior Program Committee in [AAAI-2019](https://aaai.org/Conferences/AAAI-19/).
 
 # Academic Services
 * <b>Senior Program Committee Member</b>: AAAI 2019
