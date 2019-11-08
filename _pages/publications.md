@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-### 2019
+## 2019
 __[Using Customer Service Dialogues for Satisfaction Analysis with Context-Assisted Multiple Instance Learning](http://iswgao.github.io/publications/emnlp2019-using)__ <br>
 Kaisong Song, Lidong Bing, Wei Gao, Jun Lin, Lujun Zhao, Jiancheng Wang, Changlong Sun, Xiaozhong Liu, and Qiong Zhang <br>
 __EMNLP 2019:__ *The 2019 Conference on Empirical Methods in Natural Language Processing*, November 2019
@@ -26,7 +26,7 @@ __[Detect Rumors on Twitter by Promoting Information Campaigns with Generative A
 Jing Ma, Wei Gao, and Kam-Fai Wong <br>
 __WWW 2019:__ *The Web Conference 2019*, May 2019
 
-### 2018
+## 2018
 __[Utilizing Computational Trust to Identify Rumor Spreaders on Twitter](http://iswgao.github.io/publications/snam2019-utilizing)__ <br>
 Bhavtosh Rath, Wei Gao, Jing Ma, and Jaideep Srivastava <br>
 __SNAM:__ *Social Network Analysis and Mining*, 8:64, December 2018, Springer
@@ -43,7 +43,7 @@ __[Detect Rumor and Stance Jointly by Neural Multi-task Learning](http://iswgao.
 Jing Ma, Wei Gao, and Kam-Fai Wong <br>
 __WWW 2018 Companion:__ *The Web Conference 2018 Companion (Alternate Track on Journalism, MisInformation, and Fact-checking)*, April 2018
 
-### 2017
+## 2017
 __[Attention-based LSTM-CNNs for Uncertainty Identification on Chinese Social Media Texts](http://iswgao.github.io/publications/spac2017-attention)__ <br>
 Binyang Li, Kaiming Zhou, Wei Gao, Xu Han, and Linna Zhou <br>
 __SPAC 2017:__ *The 2017 International Conference on Security, Pattern Analysis and Cybernetics*, December 2017. IEEE Press
@@ -64,7 +64,7 @@ __[Social Media Content Analysis: NLP and Beyond (Series on Language Processing,
 Kam-Fai Wong, Wei Gao, Wenjie Li, and Ruifeng Xu <br>
 *World Scientific Publishing*, ISBN 978-981-3223-6105, November 2017
 
-### 2016
+## 2016
 __[Topic Extraction from Microblog Posts Using Conversation Structures](http://iswgao.github.io/publications/acl2016-topic)__ <br>
 Jing Li, Ming Liao, Wei Gao, Yulan He, and Kam-Fai Wong <br>
 __ACL 2016:__ *The 54th Annual Meeting of the Association for Computational Linguistics*, August 2016
@@ -93,7 +93,7 @@ __[PerSentiment: A Personalized Sentiment Classification System for Microblog Us
 Kaisong Song, Ling Chen, Wei Gao, Shi Feng, Daling Wang, and Chengqi Zhang <br>
 __WWW 2016 (demo):__ *The 25th International World Wide Web Conference*, April 2016
 
-### 2015
+## 2015
 __[Using Content-level Structures for Summarizing Microblog Repost Trees](http://iswgao.github.io/publications/emnlp2015-using)__ <br>
 Jing Li, Wei Gao, Zhongyu Wei, Baolin Peng, and Kam-Fai Wong <br>
 __EMNLP 2015:__ *The 2015 Conference on Empirical Methods in Natural Language Processing*, September 2015
