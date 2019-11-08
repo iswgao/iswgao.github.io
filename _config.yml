@@ -80,8 +80,8 @@ author:
   name             : "Wei Gao"
   avatar           : "weigao-image.jpg"
   bio              : "Assistant Professor"
-  location         : "Somewhere"
-  employer         : 
+  location         : #"Somewhere"
+  employer         : School of Information Systems, Singapore Management University
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8uaZwkwAAAAJ"
   email            : "weigao@somecompnay.com"
   uri              : 
