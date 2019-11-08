@@ -93,3 +93,35 @@ __[PerSentiment: A Personalized Sentiment Classification System for Microblog Us
 Kaisong Song, Ling Chen, Wei Gao, Shi Feng, Daling Wang, and Chengqi Zhang <br>
 __WWW 2016 (demo):__ *The 25th International World Wide Web Conference*, April 2016
 
+### 2015
+__[Using Content-level Structures for Summarizing Microblog Repost Trees](http://iswgao.github.io/publications/emnlp2015-using)__ <br>
+Jing Li, Wei Gao, Zhongyu Wei, Baolin Peng, and Kam-Fai Wong <br>
+__EMNLP 2015:__ *The 2015 Conference on Empirical Methods in Natural Language Processing*, September 2015
+
+__[Detect Rumors Using Time Series of Social Context Information on Microblogging Websites](http://iswgao.github.io/publications/cikm2015-detect)__ <br>
+Jing Ma, Wei Gao, Zhongyu Wei, Yueming Lu, and Kam-Fai Wong <br>
+__CIKM 2015:__ *The 24th ACM International Conference on Information and Knowledge Management*, October 2015
+
+__[Tweet Sentiment: From Classification to Quantification](http://iswgao.github.io/publications/asonam2015-tweet)__ <br>
+Wei Gao and Fabrizio Sebastiani <br>
+__ASONAM 2015:__ *The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining*, August 2015 (__Best Paper Runner-Up__)
+
+__[Using Tweets to Help Sentence Compression for News Highlights Generation](http://iswgao.github.io/publications/acl2015-using)__ <br>
+Zhongyu Wei, Yang Liu, Chen Li, and Wei Gao <br>
+__ACL-IJCNLP 2015:__ *The 53rd Annual Meeting of the Association for Computational Linguistics*, July 2015
+
+__[Build Emotion Lexicon from Microblogs by Combining Effects of Seed Words and Emoticons in a Heterogeneous Graph](http://iswgao.github.io/publications/ht2015-build)__ <br>
+Kaisong Song, Shi Feng, Wei Gao, Daling Wang, Ling Chen, and Chengqi Zhang <br>
+__Hypertext 2015:__ *The 26th ACM Conference on Hypertext and Social Media*, September 2015
+
+__[Personalized Sentiment Classification Based on Latent Individuality of Microblog Users](http://iswgao.github.io/publications/ijcai2015-personalized)__ <br>
+Kaisong Song, Shi Feng, Wei Gao, Daling Wang, Ge Yu, and Kam-Fai Wong <br>
+__IJCAI 2015:__ *The 24th International Joint Conference on Artificial Intelligence*, July 2015
+
+__[Gibberish, Assistant, or Master? Using Tweets Linking to News for Extractive Single-Document Summarization](http://iswgao.github.io/publications/sigir2015-gibberish)__ <br>
+Zhongyu Wei and Wei Gao <br>
+__SIGIR 2015:__ *The 38th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval*, August 2015
+
+__[QCRI: Answer Selection for Community Question Answering - Experiment for Arabic and English](http://iswgao.github.io/publications/semeval2015-qcri)__ <br>
+Massimo Nicosia, Simone Filice, Alberto Barron-Cedeno, Iman Saleh, Hamdy Mubarak, Wei Gao, Preslav Nakov, Giovanni Da San Martino, Alessandro Moschitti, Kareem Darwish, Lluis Marquz, Shafiq Joty and Walidy Magdy <br>
+__SemEval 2015:__ *The 9th International Workshop on Semantic Evaluation*, May 2015 
