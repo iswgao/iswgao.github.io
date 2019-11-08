@@ -60,7 +60,45 @@ I am currently an Assistant Professor in the [School of Information Systems](htt
 * __Area Co-chair:__ NLPCC 2015, 2018, 2019
 * __Tutorial Co-chair:__ IJCNLP 2011
 
-## Representative Publications
+## 10 Representative Publications
+(Please see Publication page for the full list of my papers)
 
+__[Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning](https://dl.acm.org/citation.cfm?id=3313741)__ <br>
+Jing Ma, Wei Gao, and Kam-Fai Wong <br>
+__WWW 2019:__ *The Web Conference 2019*, May 2019
 
+__[Personalized Microblog Sentiment Classification via Adversarial Cross-lingual Multi-task Learning](https://www.aclweb.org/anthology/D18-1031/)__ <br>
+Weichao Wang, Shi Feng, Wei Gao, Daling Wang, and Yifei Zhang <br>
+__EMNLP 2018:__ *The 2018 Conference on Empirical Methods in Natural Language Processing*, October 2018
 
+__[Rumor Detection on Twitter with Tree-structured Recursive Neural Networks](https://www.aclweb.org/anthology/P18-1184/)__ <br>
+Jing Ma, Wei Gao, and Kam-Fai Wong <br>
+__ACL 2018:__ *The 56th Annual Meeting of the Association for Computational Linguistics*, July 2018
+
+__[From Retweet to Believability: Utilizing Trust to Identify Rumor Spreaders on Twitter](https://dl.acm.org/citation.cfm?id=3110121)__ <br>
+Bhavtosh Rath, Wei Gao, Jing Ma, and Jaideep Srivastava <br>
+__ASONAM 2017:__ *The 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining*, August 2017
+
+__[Detecting Rumors from Microblogs with Recurrent Neural Networks](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)__ <br>
+Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, and Meeyoung Cha <br>
+__IJCAI 2016:__ *The 25th International Joint Conference on Artificial Intelligence*, July 2016
+
+__[Tweet Sentiment: From Classification to Quantification](http://nmis.isti.cnr.it/sebastiani/Publications/ASONAM2015.pdf)__ <br>
+Wei Gao and Fabrizio Sebastiani <br>
+__ASONAM 2015:__ *The 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining*, August 2015 (__Best Paper Runner-Up__)
+
+__[Dynamic Joint Sentiment-Topic Model](https://dl.acm.org/citation.cfm?doid=2542182.2542188)__ <br>
+Yulan He, Chenghua Lin, Wei Gao, and Kam-Fai Wong <br>
+__TIST:__ *ACM Transactions on Intelligent Systems and Technology -- Special Issue: Social Web Mining*, Volume 5, Issue 1, Article 6, 2013
+
+__[Joint Topic Modeling for Event Summarization across News and Social Media Streams](https://dl.acm.org/citation.cfm?id=2398417)__ <br>
+Wei Gao, Peng Li, and Kareem Darwish <br>
+__CIKM 2012:__ *The 21st ACM Conference on Information and Knowledge Management*, October 2012
+
+__[Exploiting Query Logs for Cross-Lingual Query Suggestions](https://dl.acm.org/citation.cfm?doid=1740592.1740594)__ <br>
+Wei Gao, Cheng Niu, Jian-Yun Nie, Ming Zhou, Kam-Fai Wong, and Hsiao-Wuen Hon <br>
+__TOIS:__ *ACM Transactions on Information Systems*, Volume 28, No.2, Article 6, 2010 
+
+__[Exploiting Bilingual Information to Improve (Monolingual) Web Search](https://www.aclweb.org/anthology/P09-1121.pdf)__ (br>
+Wei Gao, John Blitzer, Ming Zhou, and Kam-Fai Wong <br>
+__ACL-IJCNLP 2009:__ *The 47th Annual Meeting of the Association for Computational Linguistics*, August 2009
