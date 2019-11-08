@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Gao"
+title                    : "Dr. Wei Gao"
 title_separator          : "-"
 name                     : &name "Wei Gao"
 description              : &description "Assistant Professor"
@@ -80,10 +80,10 @@ author:
   name             : "Wei Gao"
   avatar           : "weigao.jpg"
   bio              : "Assistant Professor"
-  location         : "Singapore"
+  location         : "Somewhere"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8uaZwkwAAAAJ"
-  email            : "wgao.qcri@gmail.com"
+  email            : "weigao@somecompnay.com"
   uri              : 
   bitbucket        :
   codepen          :
