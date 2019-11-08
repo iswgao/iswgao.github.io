@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Short Bio
+## Short Biography
 I am currently an Assistant Professor in ...
 
 
