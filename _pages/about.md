@@ -33,29 +33,29 @@ I am currently an Assistant Professor in ...
 * __Area Chair:__ ACL 2019, EMNLP 2019
 * __Program Committee Member:__ WWW 2020, AAAI 2020, NAACL 2019, ECIR 2019, IJCAI 2016/2018-2019, SIGIR 2011-2017/2019, CIKM 2017/2018, WSDM 2015/2017, ACL 2012/2014-2019, EMNLP 2010/2011/2013-2017, ASONAM 2015-2019, NLPCC 2015/2017-2019, SocialNLP 2016-2019, SocialSens 2019, etc.
 * __Journal Referee:__
-  1. ACM Computing Surveys
-  1. IEEE Transactions on Computer
-  1. Computational Linguistics
-  1. Information Systems
-  1. Journal of Association for Information Science and Technology
-  1. ACM Transactions on Knowledge Discovery from Data
-  1. ACM Transactions on Information Systems 
-  1. ACM Transactions on the Web
-  1. ACM Transactions on Intelligent Systems and Technology
-  1. IEEE Transactions on Knowledge and Data Engineering
-  1. IEEE Intelligent Systems
-  1. IEEE Transactions on Cybernetics
-  1. IEEE Transactions on Information Forensics and Security
-  1. Information Processing and Management
-  1. Data Mining and Knowledge Discovery
-  1. Neural Computation
-  1. Natural Language Engineering
-  1. International Journal of Human-Computer Studies
-  1. ACM Transactions on Asian and Low-Resource Language Information Processing  
-  1. Knowledge and Information Systems
-  1. Information Retrieval
-  1. Language Resources and Evaluation
-  1. AI Communications
+  * ACM Computing Surveys
+  * ACM Transactions on Asian and Low-Resource Language Information Processing   
+  * ACM Transactions on Information Systems 
+  * ACM Transactions on Intelligent Systems and Technology  
+  * ACM Transactions on Knowledge Discovery from Data 
+  * ACM Transactions on the Web
+  * IEEE Intelligent Systems
+  * IEEE Transactions on Computer 
+  * IEEE Transactions on Cybernetics
+  * IEEE Transactions on Information Forensics and Security
+  * IEEE Transactions on Knowledge and Data Engineering
+  * AI Communications  
+  * Computational Linguistics
+  * Data Mining and Knowledge Discovery
+  * Information Processing and Management
+  * Information Retrieval
+  * Information Systems
+  * International Journal of Human-Computer Studies
+  * Journal of Association for Information Science and Technology
+  * Knowledge and Information Systems
+  * Language Resources and Evaluation  
+  * Natural Language Engineering
+  * Neural Computation
 * __Workshop Co-chair:__ BigComp 2016, AACL-IJCNLP 2020
 * __Area Co-chair:__ NLPCC 2015, 2018, 2019
 * __Tutorial Co-chair:__ IJCNLP 2011
