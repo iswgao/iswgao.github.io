@@ -5,10 +5,10 @@ author_profile: true
 ---
 <br>
 
-## 2019
-<b>[Using Customer Service Dialogues for Satisfaction Analysis with Context-Assisted Multiple Instance Learning](http://iswgao.github.io/publications/emnlp2019-using)</b> <br>
+### 2019
+__[Using Customer Service Dialogues for Satisfaction Analysis with Context-Assisted Multiple Instance Learning](http://iswgao.github.io/publications/emnlp2019-using)__ <br>
 Kaisong Song, Lidong Bing, Wei Gao, Jun Lin, Lujun Zhao, Jiancheng Wang, Changlong Sun, Xiaozhong Liu, and Qiong Zhang <br>
-<b>EMNLP 2019:</b> <i>The 2019 Conference on Empirical Methods in Natural Language Processing</i>, November 2019
+__EMNLP 2019:__ *The 2019 Conference on Empirical Methods in Natural Language Processing*, November 2019
 
 <b>[Evaluating Vulnerability to Fake News in Social Networks: A Community Health Assessment Model](http://iswgao.github.io/publications/asonam2019-evaluating)</b> <br>
 Bhavtosh Rath, Wei Gao, and Jaideep Srivastava <br>
@@ -26,7 +26,7 @@ Kaisong Song, Wei Gao, Lujun Zhao, Jun Lin, Changlong Sun, and Xiaozhong Liu <br
 Jing Ma, Wei Gao, and Kam-Fai Wong <br>
 <b>WWW 2019:</b> <i>The Web Conference 2019</i>, May 2019
 
-## 2018
+### 2018
 <b>[Utilizing Computational Trust to Identify Rumor Spreaders on Twitter](http://iswgao.github.io/publications/snam2019-utilizing)</b> <br>
 Bhavtosh Rath, Wei Gao, Jing Ma, and Jaideep Srivastava <br>
 <b>SNAM:</b> <i>Social Network Analysis and Mining</i>, 8:64, December 2018, Springer
@@ -43,7 +43,7 @@ Jing Ma, Wei Gao, and Kam-Fai Wong <br>
 Jing Ma, Wei Gao, and Kam-Fai Wong <br>
 <b>WWW 2018 Companion:</b> <i>The Web Conference 2018 Companion (Alternate Track on Journalism, MisInformation, and Fact-checking)</i>, April 2018
 
-## 2017
+### 2017
 <b>[Attention-based LSTM-CNNs for Uncertainty Identification on Chinese Social Media Texts](http://iswgao.github.io/publications/spac2017-attention)</b> <br>
 Binyang Li, Kaiming Zhou, Wei Gao, Xu Han, and Linna Zhou <br>
 <b>SPAC 2017:</b> <i>The 2017 International Conference on Security, Pattern Analysis and Cybernetics</i>, December 2017. IEEE Press
@@ -63,4 +63,33 @@ Jing Ma, Wei Gao, and Kam-Fai Wong <br>
 <b>[Social Media Content Analysis: NLP and Beyond (Series on Language Processing, Pattern Recognition, and Intelligent Systems, Vol.3)](http://iswgao.github.io/publications/book2017-social)</b> <br>
 Kam-Fai Wong, Wei Gao, Wenjie Li, and Ruifeng Xu <br>
 <i>World Scientific Publishing, ISBN 978-981-3223-6105</i>
+
+### 2016
+<b>[Topic Extraction from Microblog Posts Using Conversation Structures](http://iswgao.github.io/publications/acl2016-topic)</b> <br>
+Jing Li, Ming Liao, Wei Gao, Yulan He, and Kam-Fai Wong <br>
+<b>ACL 2016:</b> <i>The 54th Annual Meeting of the Association for Computational Linguistics</i>, August 2016
+
+<b>[Detecting Rumors from Microblogs with Recurrent Neural Networks](http://iswgao.github.io/publications/ijcai2016-detecting)</b> <br>
+Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, and Meeyoung Cha <br>
+<b>IJCAI 2016:</b> <i>The 25th International Joint Conference on Artificial Intelligence</i>, July 2016
+
+<b>[Ordinal Text Quantification](http://iswgao.github.io/publications/sigir2016-ordinal)</b> <br>
+Giovanni Da San Martino, Wei Gao, and Fabrizio Sebastiani <br>
+<b>SIGIR 2016:</b> <i>The 39th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval</i>, July 2016
+
+<b>[Build Emotion Lexicon from the Mood of Crowd via Topic-Assisted Joint Non-negative Matrix Factorization](http://iswgao.github.io/publications/sigir2016-build)</b> <br>
+Kaisong Song, Wei Gao, Ling Chen, Shi Feng, Daling Wang, and Chengqi Zhang <br>
+<b>SIGIR 2016:</b> <i>The 39th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval</i>, July 2016
+
+<b>[QCRI at SemEval-2016 Task 4: Probabilistic Methods for Binary and Ordinal Quantification](http://iswgao.github.io/publications/semeval2016-qcri)</b> <br>
+Giovanni Da San Martino, Wei Gao, and Fabrizio Sebastiani <br>
+<b>SemEval 2016:</b> <i>The 10th International Workshop on Semantic Evaluation</i>, June 2016 (__1st place in sub-task E of Sentiment Analysis in Twitter__)
+
+__[From Classification to Quantification in Tweet Sentiment Analysis](http://iswgao.github.io/publications/snam2016-from)__ <br>
+Wei Gao and Fabrizio Sebastiani <br>
+__SNAM:__ *Social Network Analysis and Mining*, Volume:6, Issue:1, Article 19, 2016, Springer
+
+__[PerSentiment: A Personalized Sentiment Classification System for Microblog Users](http://iswgao.github.io/publications/www2016-persentiment)__ <br>
+Kaisong Song, Ling Chen, Wei Gao, Shi Feng, Daling Wang, and Chengqi Zhang <br>
+__WWW 2016 (demo):__ *The 25th International World Wide Web Conference*, April 2016
 
