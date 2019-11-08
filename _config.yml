@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Wei Gao"
 title_separator          : "-"
-name                     : &name "Wei GAO"
+name                     : &name "Wei Gao"
 description              : &description "Assistant Professor"
-url                      : https://wegao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://iswgao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wegao/weigao.github.io"
+repository               : "iswgao/iswgao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
