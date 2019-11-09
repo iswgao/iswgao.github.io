@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Wei Gao"
   avatar           : "weigao-image.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor, School of Information Systems, Singapore Management University"
   location         : #"Somewhere"
-  employer         : School of Information Systems, Singapore Management University
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8uaZwkwAAAAJ"
   email            : "weigao@somecompnay.com"
   uri              : 
